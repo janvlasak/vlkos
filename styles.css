@@ -6,3 +6,7 @@
 	border-radius:10px;
 	animation:none;
 }
+
+.ui-datepicker-today .ui-state-default{
+	background:#0000BB;
+}
